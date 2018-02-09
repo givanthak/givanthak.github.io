@@ -1,6 +1,6 @@
 ---
 layout: post
-title: OOP Concepts
+title: DEsign
 ---
 
 Next you can update OOP :) :- :
