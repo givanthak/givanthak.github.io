@@ -1,6 +1,6 @@
 ---
 layout: post
-title: OOP Concepts
+title: Design Pattern Post
 ---
 
-Next you can update OOP :) :- :
+Next you can update Design Pattern :) :- :
